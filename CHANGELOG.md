@@ -1,3 +1,7 @@
+### fix
+
+* * fix wallet balance loading animation [#3624](https://github.com/MyEtherWallet/MyEtherWallet/pull/3624)
+
 ### Release v6.4.7
 
 ### devop
